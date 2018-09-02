@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape>
+
+            <corners
+                android:topLeftRadius="7dip"
+                android:topRightRadius="7dip"
+                android:bottomLeftRadius="7dip"
+                android:bottomRightRadius="7dip"/>
+            <stroke android:dashGap="2mm" android:dashWidth="4mm" android:width="3dp" android:color="@color/colorNewsSeparator" />
+        </shape>
+    </item>
+
+</layer-list>

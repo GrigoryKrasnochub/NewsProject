@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="infoForTimeOfStart">Time: </string>
+    <string name="sportChooserMarker">Choose your sport: </string>
+    <string name="predictionPointer">Prediction:</string>
+    <string-array name="categories">
+        <item>Hockey</item>
+        <item>Football</item>
+        <item>Tennis</item>
+        <item>Basketball</item>
+        <item>Volleyball</item>
+        <item>Cybersport</item>
+    </string-array>
+</resources>
